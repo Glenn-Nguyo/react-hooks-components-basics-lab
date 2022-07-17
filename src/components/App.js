@@ -29,10 +29,9 @@ function App() {
   return (
     <div>
       <NavBar />
-      <About />
       <Home />
-      { <h2>Home</h2>}
-      {<h2>About</h2> }
+      <About />
+    
     </div>
   );
 }
